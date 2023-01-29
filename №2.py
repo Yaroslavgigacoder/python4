@@ -1,4 +1,3 @@
-
 fruits = {}
 k = int(input('Введите кол-во фруктов'))
 for i in range (k):
